@@ -1,0 +1,30 @@
+﻿Project management TODO list.
+
+Forms:
+1. Login form
+- get user's token from ESSEGI
+- catch exception- connection error
+- catch exception login & password error
+
+2. Main form
+- aim: create new item in ESSEGI database.
+- button "add item" which check if item already exist and then allow user to decide add or deny.
+- catch connection error exception.
+- item type list: capacitor resistor etc.
+- add value opens new form which allow user to choose item properties,
+- each click on button or close item properties form updates output of text box.
+
+3. Item value form
+- show buttons which allow to choose all defined values for chosen item,
+
+
+items and properties defined in text file or xml
+
+Classes:
+User - user data: login, password, token
+EssegiApi - api library which allow to connect with ESSEGI
+ItemDataReader - read data of items and their properties
+newItem - item under development with all methods
+mainForm - handle all exceptions and give lower class correct data
+
+
