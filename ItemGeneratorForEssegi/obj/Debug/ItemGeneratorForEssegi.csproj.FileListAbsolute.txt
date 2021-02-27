@@ -1,0 +1,10 @@
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\bin\Debug\ItemGeneratorForEssegi.exe.config
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\bin\Debug\ItemGeneratorForEssegi.exe
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\bin\Debug\ItemGeneratorForEssegi.pdb
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\obj\Debug\ItemGeneratorForEssegi.csprojAssemblyReference.cache
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\obj\Debug\ItemGeneratorForEssegi.LoginForm.resources
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\obj\Debug\ItemGeneratorForEssegi.Properties.Resources.resources
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\obj\Debug\ItemGeneratorForEssegi.csproj.GenerateResource.cache
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\obj\Debug\ItemGeneratorForEssegi.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\obj\Debug\ItemGeneratorForEssegi.exe
+C:\Users\Mikołaj Nachtygal\Documents\ItemGeneratorForEssegi\ItemGeneratorForEssegi\obj\Debug\ItemGeneratorForEssegi.pdb
